@@ -1,2 +1,2 @@
 # NewsApp
-Using React JS
+Using React JS Class Based Components
